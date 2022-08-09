@@ -1,2 +1,2 @@
 # megafons-_clients_investigation
-Analytic based on maegafon's data
+Analytic based on megafon's data
